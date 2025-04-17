@@ -21,3 +21,7 @@
     font-style: normal;
     font-display: swap;
 }
+
+body {
+    font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
